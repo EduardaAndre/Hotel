@@ -1,0 +1,12 @@
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.exe
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.deps.json
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.runtimeconfig.json
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.runtimeconfig.dev.json
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.dll
+C:\Users\julli\source\repos\Hotel18\Hotel18\bin\Debug\netcoreapp3.1\Hotel18.pdb
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.AssemblyInfoInputs.cache
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.AssemblyInfo.cs
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.csproj.CoreCompileInputs.cache
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.dll
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.pdb
+C:\Users\julli\source\repos\Hotel18\Hotel18\obj\Debug\netcoreapp3.1\Hotel18.genruntimeconfig.cache
